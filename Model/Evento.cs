@@ -10,6 +10,6 @@ namespace Sistema.WebApi.Model
 
         public string Lote { get; set; }
 
-        public string ImagenUrl { get; set; }
+        public string ImagenURL { get; set; }
     }
 }

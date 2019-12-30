@@ -5,17 +5,17 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Sistema.WebApi.Data;
 
-namespace Sistema.WebApi.Migrations
+namespace ProAgil.WebApi.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20190717195310_init1")]
-    partial class init1
+    [Migration("20191230191653_init")]
+    partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "2.2.4-servicing-10062");
+                .HasAnnotation("ProductVersion", "2.2.6-servicing-10079");
 
             modelBuilder.Entity("Sistema.WebApi.Model.Evento", b =>
                 {

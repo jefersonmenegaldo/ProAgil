@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace Sistema.WebApi.Migrations
+namespace ProAgil.WebApi.Migrations
 {
     public partial class init : Migration
     {
@@ -16,7 +16,8 @@ namespace Sistema.WebApi.Migrations
                     DataEvento = table.Column<string>(nullable: true),
                     Tema = table.Column<string>(nullable: true),
                     QtdPessoas = table.Column<int>(nullable: false),
-                    Lote = table.Column<string>(nullable: true)
+                    Lote = table.Column<string>(nullable: true),
+                    ImagenUrl = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
                 {
