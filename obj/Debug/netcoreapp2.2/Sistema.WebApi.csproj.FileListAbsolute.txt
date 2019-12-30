@@ -1,0 +1,14 @@
+C:\Users\Programador\Documents\WebApi\sistema.webapi\bin\Debug\netcoreapp2.2\Sistema.WebApi.deps.json
+C:\Users\Programador\Documents\WebApi\sistema.webapi\bin\Debug\netcoreapp2.2\Sistema.WebApi.runtimeconfig.json
+C:\Users\Programador\Documents\WebApi\sistema.webapi\bin\Debug\netcoreapp2.2\Sistema.WebApi.runtimeconfig.dev.json
+C:\Users\Programador\Documents\WebApi\sistema.webapi\bin\Debug\netcoreapp2.2\Sistema.WebApi.dll
+C:\Users\Programador\Documents\WebApi\sistema.webapi\bin\Debug\netcoreapp2.2\Sistema.WebApi.pdb
+C:\Users\Programador\Documents\WebApi\sistema.webapi\obj\Debug\netcoreapp2.2\Sistema.WebApi.csprojAssemblyReference.cache
+C:\Users\Programador\Documents\WebApi\sistema.webapi\obj\Debug\netcoreapp2.2\Sistema.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Programador\Documents\WebApi\sistema.webapi\obj\Debug\netcoreapp2.2\Sistema.WebApi.RazorAssemblyInfo.cache
+C:\Users\Programador\Documents\WebApi\sistema.webapi\obj\Debug\netcoreapp2.2\Sistema.WebApi.RazorAssemblyInfo.cs
+C:\Users\Programador\Documents\WebApi\sistema.webapi\obj\Debug\netcoreapp2.2\Sistema.WebApi.AssemblyInfoInputs.cache
+C:\Users\Programador\Documents\WebApi\sistema.webapi\obj\Debug\netcoreapp2.2\Sistema.WebApi.AssemblyInfo.cs
+C:\Users\Programador\Documents\WebApi\sistema.webapi\obj\Debug\netcoreapp2.2\Sistema.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Programador\Documents\WebApi\sistema.webapi\obj\Debug\netcoreapp2.2\Sistema.WebApi.dll
+C:\Users\Programador\Documents\WebApi\sistema.webapi\obj\Debug\netcoreapp2.2\Sistema.WebApi.pdb
